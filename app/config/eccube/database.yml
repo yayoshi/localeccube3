@@ -1,0 +1,9 @@
+database:
+    driver: pdo_mysql
+    host: localhost
+    dbname: eccube3
+    port: 8888
+    user: eccube3
+    password : password
+    charset: utf8
+    defaultTableOptions: { collate: utf8_general_ci }
